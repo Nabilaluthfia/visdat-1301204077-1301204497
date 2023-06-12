@@ -10,8 +10,6 @@ Original file is located at
 # Nabiel Muhammad Al-Ghazali - 1301204497
 """
 
-!pip install bokeh
-
 import pandas as pd
 import numpy as np
 from bokeh.plotting import figure, show
