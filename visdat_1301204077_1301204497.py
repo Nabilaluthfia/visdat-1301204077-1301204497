@@ -9,6 +9,7 @@ Original file is located at
 # Nabila Luthfia Arifin - 1301204077
 # Nabiel Muhammad Al-Ghazali - 1301204497
 """
+!pip install bokeh
 
 import pandas as pd
 import numpy as np
